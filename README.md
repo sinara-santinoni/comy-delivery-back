@@ -430,7 +430,6 @@ server.port=8085
   </tr>
 </table>
 
-📧 **Contato:** dev.hmtvrs@gmail.com
 
 ---
 
